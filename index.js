@@ -17,3 +17,5 @@ themeToggler.addEventListener('click', () => {
 
     themeToggler.querySelector('span').classList.toggle('active');
 })
+
+//update
